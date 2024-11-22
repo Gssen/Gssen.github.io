@@ -3,5 +3,7 @@
     "subTitle":"Life's A Struggle",
     "avatarUrl":"https://avatars.githubusercontent.com/u/26129337?s=96&v=4",
     "GMEEK_VERSION":"last",
-    "script": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"
+    "script": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+    "indexScript": "<script src='lib/jquery-3.7.1.js'></script><script src='lib/jquery.simplePagination.js'></script><script src='plugins/CustomPagination.js'></script>",
+    "indexStyle": "<link type='text/css' rel='stylesheet' href='lib/simplePagination.css'>"
 }
